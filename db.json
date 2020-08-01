@@ -1,0 +1,40 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Front End",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Back End",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 3,
+            "nome": "Data Science e Inteligência Artificial",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 4,
+            "nome": "Filmes",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 5,
+            "nome": "Games",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        },        
+        {
+            "id": 6,
+            "nome": "Aprendendo a aprender tecnologia",
+            "descricao": "Uma Categoria Show",
+            "cor": "#cbd1ff"
+        }
+    ]
+}
