@@ -10,7 +10,8 @@ const FormFieldWrapper = styled.div`
   }
 
   input[type="color"]{
-    padding-left: 56px;  }
+    padding-left: 56px;  
+  }
 
 `;
 
