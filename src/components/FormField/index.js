@@ -67,7 +67,7 @@ const Input = styled.input`
   ${({ hasValue }) => hasValue && css`
     &:not([type="color"]) + span {
         transform: scale(.6) translateY(-10px);      
-    `}
+    }`
 }
 `;
 
